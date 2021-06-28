@@ -3,7 +3,7 @@
     "description": "Mitto login with SMS",
     "require": {
         "magento/framework": "100.*|101.*|102.*|103.*",
-        "mitto/magento2-core": ">=0.0.1"
+        "andreydomovoy/magento2-core": ">=0.0.1"
     },
     "type": "magento2-module",
     "version": "0.0.4",
